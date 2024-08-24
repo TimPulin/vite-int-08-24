@@ -50,3 +50,14 @@ npm i antd
 ```
 npm install @mui/material @emotion/react @emotion/styled
 ```
+
+## Установить глобальные переменные sass
+```
+  css: {
+    preprocessorOptions: {
+      scss: {
+        additionalData: `@import "./src/styles/vars/_vars.scss";`,
+      },
+    },
+  },
+```
