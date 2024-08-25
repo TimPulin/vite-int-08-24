@@ -20,6 +20,11 @@ npm install @reduxjs/toolkit react-redux
 ```
 npm i mobx mobx-react mobx-react-lite mobx-state-tree
 ```
+### React router dom
+
+```
+npm i react-router-dom
+```
 
 ### Bootstrap
 
